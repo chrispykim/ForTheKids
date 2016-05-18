@@ -2,14 +2,13 @@
 using UnityEngine.UI;
 using System.Collections;
 
-public class score : MonoBehaviour {
-    public GUIText budget;
-    public int money;
+public class Score : MonoBehaviour {
+    public GUIText scoreText;
+    public int score;
 
 	// Use this for initialization
 	void Start () {
-        money = 0;
-        budget.text = "Budget: " + money.ToString();
+        score = 0;
 	}
 	
 	// Update is called once per frame
@@ -19,6 +18,6 @@ public class score : MonoBehaviour {
 
     void UpdateScore()
     {
-        scoreText.text = "Score:  " + score;
+      
     }
 }
