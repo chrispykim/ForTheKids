@@ -1,29 +1,51 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 using System.Collections;
 
 public class MoveFood : MonoBehaviour {
-	private float moveSpeed = 0.07f;
+	private float moveSpeed = 0.05f;
 	private Vector2 first, second, swipe;
 	private bool wasPressed, isAlive;
 	private float price;
 	private int type;
+	private Transform t;
+	private RectTransform r;
+	private float scaleWidth; // fucking canvas
+	private float scaleHeight;
 
 	// Use this for initialization
 	void Start () {
 		wasPressed = false;
 		isAlive = true;
-		type = 3;
+		type = 3; // so counters don't decrement if they're not supposed to
 		price = setPrice ();
+
+		scaleWidth = GameObject.FindWithTag ("GameController").GetComponent<SpawnFood> ().scaleWidth;
+		scaleHeight = GameObject.FindWithTag ("GameController").GetComponent<SpawnFood> ().scaleHeight;
+
+		GameObject temp = ((GameObject)Resources.Load("pt"));
+		t = Instantiate (temp.transform);
+		t.SetParent (GameObject.FindGameObjectWithTag ("Canvas").transform);
+		Text p = t.gameObject.GetComponent<Text> ();
+		p.text = "$" + price.ToString("F2");
+		p.font = (Font)Resources.Load ("arial_narrow_7"); // idk why default arial doesn't load
+		p.fontSize = 20;
+		r = t.gameObject.GetComponent<RectTransform> ();
+		r.localPosition = new Vector3 (transform.position.x*scaleWidth, transform.position.y*scaleHeight+60, transform.position.z);
 	}
-	
+
 	// Update is called once per frame
 	void Update () {
-		if (isAlive)
+		if (isAlive) {
 			transform.position = new Vector3 (transform.position.x - moveSpeed, transform.position.y, transform.position.z);
+			r.localPosition = new Vector2 (r.localPosition.x - moveSpeed*scaleHeight, r.localPosition.y);
+		}
 
 		// kill it once off screen
-		if (transform.position.x < -10f)
+		if (transform.position.x < -10f) {
 			Destroy (this.gameObject);
+			Destroy (t.gameObject);
+		}
 	}
 
 	void OnMouseOver() {
@@ -40,11 +62,12 @@ public class MoveFood : MonoBehaviour {
 			swipe = new Vector2 (second.x - first.x, second.y - first.y);
 			swipe.Normalize ();
 			// swipe was down and over cart
-			if (swipe.y < 0 && swipe.x > -.5f && swipe.x < .5f) {
+			if (swipe.y < 0 && swipe.x > -.6f && swipe.x < .5f) {
 				GameObject.FindWithTag ("GameController").GetComponent<Budget> ().budget -= price;
 				decrementCounters ();
 				transform.position = new Vector3 (-4.5f, -1.5f, transform.position.z);
 				isAlive = false;
+				Destroy (t.gameObject);
 			}
 		}
 	}

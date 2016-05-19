@@ -13,9 +13,9 @@ public class Budget : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		budget = Random.Range (200f, 500f);
-		fc = Random.Range (1, 10);
-		vc = Random.Range (1, 8);
-		bc = Random.Range (1, 5);
+		fc = Random.Range (2, 11);
+		vc = Random.Range (3, 9);
+		bc = Random.Range (2, 6);
 		moneyLeft.text = "Remaining Budget: $" + budget.ToString ("F2");
 		fruitCounter.text = "# fruits needed: " + fc.ToString ();
 		veggieCounter.text = "# veggies needed: " + vc.ToString ();

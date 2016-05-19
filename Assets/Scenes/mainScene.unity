@@ -333,6 +333,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be9dc1dbcbce9437bb0cca48669e5126, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  scaleWidth: 0
+  scaleHeight: 0
   bread1: {fileID: 467042, guid: 8ed1bbaa5bd184c6b938b0bec82ad87a, type: 2}
   bread2: {fileID: 479074, guid: fa541352747c04649bb18b160cf5fc58, type: 2}
   bread3: {fileID: 450482, guid: fa63661efae3340e49a9323f81a6da89, type: 2}
@@ -583,7 +585,7 @@ GameObject:
   - 222: {fileID: 1585806659}
   - 114: {fileID: 1585806658}
   m_Layer: 5
-  m_Name: Budget
+  m_Name: budget
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -658,7 +660,7 @@ GameObject:
   - 114: {fileID: 1909176423}
   m_Layer: 5
   m_Name: Canvas
-  m_TagString: Untagged
+  m_TagString: Canvas
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

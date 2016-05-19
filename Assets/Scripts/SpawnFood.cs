@@ -4,29 +4,28 @@ using System.Collections;
 public class SpawnFood : MonoBehaviour {
 	private static int NUM_OF_FOOD_TYPES = 19;
 	private float time = 2f;
+	public float scaleWidth, scaleHeight;
 
-	public Transform bread1;
-	public Transform bread2;
-	public Transform bread3;
-	public Transform fruit1;
-	public Transform fruit2;
-	public Transform fruit3;
-	public Transform fruit4;
-	public Transform fruit5;
-	public Transform fruit6;
-	public Transform milk;
-	public Transform snack1;
-	public Transform snack2;
-	public Transform snack3;
-	public Transform snack4;
-	public Transform snack5;
-	public Transform veggie1;
-	public Transform veggie2;
-	public Transform veggie3;
-	public Transform veggie4;
+	public Transform bread1, bread2, bread3, 
+		fruit1, fruit2, fruit3, fruit4, fruit5, fruit6, 
+		milk, snack1, snack2, snack3, snack4, snack5, 
+		veggie1, veggie2, veggie3, veggie4;
 
 	// Use this for initialization
 	void Start () {
+		// some bullshit to make ui text movement work
+		RectTransform canvas = GameObject.FindGameObjectWithTag ("Canvas").GetComponent<RectTransform> ();
+		//canvas.rect.height = 594;
+		float canvasHeight = canvas.rect.height;
+		//canvas.rect.width = 1258;
+		float canvasWidth = canvas.rect.width;
+		float camHeight = 2f * GameObject.FindGameObjectWithTag ("MainCamera").GetComponent<Camera> ().orthographicSize;
+		float camWidth = camHeight * GameObject.FindGameObjectWithTag ("MainCamera").GetComponent<Camera> ().aspect;
+		scaleWidth = canvasWidth / camWidth;
+		scaleHeight = canvasHeight / camHeight;
+		print ("scale width: " + scaleWidth + ", scale height: " + scaleHeight);
+		print ("screen width: " + camWidth);
+
 		Instantiate (chooseFood());
 	}
 
