@@ -16,7 +16,7 @@ public class Budget : MonoBehaviour {
 		fc = Random.Range (1, 10);
 		vc = Random.Range (1, 8);
 		bc = Random.Range (1, 5);
-		moneyLeft.text = "Remaining Budget: " + budget.ToString ("F2");
+		moneyLeft.text = "Remaining Budget: $" + budget.ToString ("F2");
 		fruitCounter.text = "# fruits needed: " + fc.ToString ();
 		veggieCounter.text = "# veggies needed: " + vc.ToString ();
 		breadCounter.text = "# bread needed: " + bc.ToString ();
@@ -24,7 +24,7 @@ public class Budget : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		moneyLeft.text = "Remaining Budget: " + budget.ToString ("F2");
+		moneyLeft.text = "Remaining Budget: $" + budget.ToString ("F2");
 		fruitCounter.text = "# fruits needed: " + fc.ToString ();
 		veggieCounter.text = "# veggies needed: " + vc.ToString ();
 		breadCounter.text = "# bread needed: " + bc.ToString ();
