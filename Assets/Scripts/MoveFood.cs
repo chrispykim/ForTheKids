@@ -29,7 +29,7 @@ public class MoveFood : MonoBehaviour {
 		Text p = t.gameObject.GetComponent<Text> ();
 		p.text = "$" + price.ToString("F2");
 		p.font = (Font)Resources.Load ("arial_narrow_7"); // idk why default arial doesn't load
-		p.fontSize = 20;
+		p.fontSize = 30;
 		r = t.gameObject.GetComponent<RectTransform> ();
 		r.localPosition = new Vector3 (transform.position.x*scaleWidth, transform.position.y*scaleHeight+60, transform.position.z);
 	}
