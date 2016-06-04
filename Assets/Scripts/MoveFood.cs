@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.IO;
 
 public class MoveFood : MonoBehaviour {
-	private float moveSpeed = 0.04f;
+	private float moveSpeed = 0.035f;
 	private Vector2 first, second, swipe;
 	private bool wasPressed, isAlive;
 	private float price;
