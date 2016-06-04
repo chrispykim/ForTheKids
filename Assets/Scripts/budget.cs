@@ -7,15 +7,16 @@ public class Budget : MonoBehaviour {
 	public Text fruitCounter;
 	public Text veggieCounter;
 	public Text breadCounter;
-	public float budget;
-	public int fc, vc, bc;
+	public float budget, initial;
+	public int fc, vc, bc, fp, vp, bp;
 
 	// Use this for initialization
 	void Start () {
-		budget = Random.Range (200f, 500f);
-		fc = Random.Range (2, 11);
-		vc = Random.Range (3, 9);
-		bc = Random.Range (2, 6);
+		fc = Random.Range (2, 11);//2,11
+		vc = Random.Range (3, 9);//3,9
+		bc = Random.Range (2, 6);//2,6
+		budget = (fc * fp) + (vc * vp) + (bc * bp);
+		initial = budget;
 		moneyLeft.text = "Remaining Budget: $" + budget.ToString ("F2");
 		fruitCounter.text = "# fruits needed: " + fc.ToString ();
 		veggieCounter.text = "# veggies needed: " + vc.ToString ();

@@ -1,9 +1,11 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
+using System.Collections.Generic;
+using System.IO;
 
 public class MoveFood : MonoBehaviour {
-	private float moveSpeed = 0.05f;
+	private float moveSpeed = 0.04f;
 	private Vector2 first, second, swipe;
 	private bool wasPressed, isAlive;
 	private float price;
@@ -15,13 +17,19 @@ public class MoveFood : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		wasPressed = false;
-		isAlive = true;
-		type = 3; // so counters don't decrement if they're not supposed to
-		price = setPrice ();
-
+		Dictionary<string, float> d = GameObject.FindWithTag ("GameController").GetComponent<SpawnFood> ().prices;
+		/*string path = "/Users/chrisKim/Desktop/My Stuff/College/ENG 100D/ForTheKids/test.txt";
+		foreach (KeyValuePair<string, float> kvp in d) {
+			using (StreamWriter sw = File.AppendText (path)) {
+				sw.WriteLine ("name: " + kvp.Key + ", price: " + kvp.Value + "\n");
+			}
+		}*/
+		price = d[this.transform.name];
 		scaleWidth = GameObject.FindWithTag ("GameController").GetComponent<SpawnFood> ().scaleWidth;
 		scaleHeight = GameObject.FindWithTag ("GameController").GetComponent<SpawnFood> ().scaleHeight;
+		setType ();
+		wasPressed = false;
+		isAlive = true; 
 
 		GameObject temp = ((GameObject)Resources.Load("pt"));
 		t = Instantiate (temp.transform);
@@ -30,12 +38,28 @@ public class MoveFood : MonoBehaviour {
 		p.text = "$" + price.ToString("F2");
 		p.font = (Font)Resources.Load ("arial_narrow_7"); // idk why default arial doesn't load
 		p.fontSize = 30;
+
 		r = t.gameObject.GetComponent<RectTransform> ();
 		r.localPosition = new Vector3 (transform.position.x*scaleWidth, transform.position.y*scaleHeight+60, transform.position.z);
 	}
 
+	void setType() {
+		type = 3; // so counters don't decrement if they're not supposed to
+		string bread = "Bread"; string fruit = "Fruit"; string veggie = "Veggie";
+		if (this.transform.name.Contains (fruit))
+			type = 0;
+		else if (this.transform.name.Contains (veggie))
+			type = 1;
+		else if (this.transform.name.Contains (bread))
+			type = 2;
+	}
+
 	// Update is called once per frame
 	void Update () {
+		// uncomment these if screen changes size during gameplay
+		//scaleWidth = GameObject.FindWithTag ("GameController").GetComponent<SpawnFood> ().scaleWidth;
+		//scaleHeight = GameObject.FindWithTag ("GameController").GetComponent<SpawnFood> ().scaleHeight;
+
 		if (isAlive) {
 			transform.position = new Vector3 (transform.position.x - moveSpeed, transform.position.y, transform.position.z);
 			r.localPosition = new Vector2 (r.localPosition.x - moveSpeed*scaleHeight, r.localPosition.y);
@@ -86,66 +110,6 @@ public class MoveFood : MonoBehaviour {
 			temp = GameObject.FindWithTag ("GameController").GetComponent<Budget> ().bc;
 			GameObject.FindWithTag ("GameController").GetComponent<Budget> ().bc = (temp > 0) ? (temp - 1) : 0;
 			return;
-		}
-	}
-
-	float setPrice() {
-		string currName = this.transform.name;
-
-		switch (currName) {
-		case "Bread1(Clone)":
-			type = 2;
-			return 1f;
-		case "Bread2(Clone)":
-			type = 2;
-			return 2f;
-		case "Bread3(Clone)":
-			type = 2;
-			return 3f;
-		case "Fruit1(Clone)":
-			type = 0;
-			return 4f;
-		case "Fruit2(Clone)":
-			type = 0;
-			return 5f;
-		case "Fruit3(Clone)":
-			type = 0;
-			return 6f;
-		case "Fruit4(Clone)":
-			type = 0;
-			return 7f;
-		case "Fruit5(Clone)":
-			type = 0;
-			return 8f;
-		case "Fruit6(Clone)":
-			type = 0;
-			return 9f;
-		case "Milk(Clone)":
-			return 10f;
-		case "Snack1(Clone)":
-			return 11f;
-		case "Snack2(Clone)":
-			return 12f;
-		case "Snack3(Clone)":
-			return 13f;
-		case "Snack4(Clone)":
-			return 14f;
-		case "Snack5(Clone)":
-			return 15f;
-		case "Veggie1(Clone)":
-			type = 1;
-			return 16f;
-		case "Veggie2(Clone)":
-			type = 1;
-			return 17f;
-		case "Veggie3(Clone)":
-			type = 1;
-			return 18f;
-		case "Veggie4(Clone)":
-			type = 1;
-			return 19f;
-		default:
-			return 20f;
 		}
 	}
 }

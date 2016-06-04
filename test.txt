@@ -1,0 +1,2550 @@
+name: Fruit1(Clone), price: 3
+
+name: Fruit2(Clone), price: 6
+
+name: Fruit3(Clone), price: 1
+
+name: Fruit4(Clone), price: 5
+
+name: Fruit5(Clone), price: 2
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 2
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 4
+
+name: Bread1(Clone), price: 2
+
+name: Bread2(Clone), price: 1
+
+name: Bread3(Clone), price: 3
+
+
+
+name: Fruit1(Clone), price: 3
+
+name: Fruit2(Clone), price: 2
+
+name: Fruit3(Clone), price: 4
+
+name: Fruit4(Clone), price: 1
+
+name: Fruit5(Clone), price: 5
+
+name: Fruit6(Clone), price: 6
+
+name: Veggie1(Clone), price: 2
+
+name: Veggie2(Clone), price: 4
+
+name: Veggie3(Clone), price: 1
+
+name: Veggie4(Clone), price: 3
+
+name: Bread1(Clone), price: 1
+
+name: Bread2(Clone), price: 3
+
+name: Bread3(Clone), price: 2
+
+
+
+name: Fruit1(Clone), price: 4
+
+name: Fruit2(Clone), price: 5
+
+name: Fruit3(Clone), price: 2
+
+name: Fruit4(Clone), price: 6
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 3
+
+name: Veggie1(Clone), price: 1
+
+name: Veggie2(Clone), price: 3
+
+name: Veggie3(Clone), price: 2
+
+name: Veggie4(Clone), price: 4
+
+name: Bread1(Clone), price: 1
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 3name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
+name: Fruit1(Clone), price: 5
+
+name: Fruit2(Clone), price: 3
+
+name: Fruit3(Clone), price: 6
+
+name: Fruit4(Clone), price: 2
+
+name: Fruit5(Clone), price: 1
+
+name: Fruit6(Clone), price: 4
+
+name: Veggie1(Clone), price: 4
+
+name: Veggie2(Clone), price: 1
+
+name: Veggie3(Clone), price: 3
+
+name: Veggie4(Clone), price: 2
+
+name: Bread1(Clone), price: 3
+
+name: Bread2(Clone), price: 2
+
+name: Bread3(Clone), price: 1
+
+name: Milk(Clone), price: 2
+
+name: Snack1(Clone), price: 15
+
+name: Snack2(Clone), price: 2
+
+name: Snack3(Clone), price: 1
+
+name: Snack4(Clone), price: 3
+
+name: Snack5(Clone), price: 1
+
