@@ -82,8 +82,10 @@ public class SpawnFood : MonoBehaviour {
 			//print ("f = " + f + ", v = " + v + ", b = " + b);
 			if (remaining < 0f)
 				GameOver (remaining, false);
-			else if (f==0 && v==0 && b==0) 
+			else if (f == 0 && v == 0 && b == 0)
 				GameOver (remaining, true);
+			else if (remaining == 0f)
+				GameOver (remaining, false);
 			
 			time = 2.5f;
 			if (!gameOver)

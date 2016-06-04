@@ -20,9 +20,9 @@ public class Tutorial : MonoBehaviour {
 
 		instructions = new List<string> ();
 		GameObject.Find("TutorialText").GetComponent<GUIText>().text = "Welcome to Shopper Express!";
-		instructions.Add ("You need to be within budget! so make sure you keep an eye on it!");
+		instructions.Add ("You need to be within budget! So make sure you keep an eye on it!");
 		instructions.Add ("You also need to buy certain items within your budget!");
-		instructions.Add ("Make sure you know the different Items!");
+		instructions.Add ("Make sure you know the different items!");
 	}
 	
 	// Update is called once per frame
