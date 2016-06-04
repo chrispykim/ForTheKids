@@ -12,9 +12,10 @@ public class Budget : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		fc = Random.Range (2, 11);//2,11
-		vc = Random.Range (3, 9);//3,9
-		bc = Random.Range (2, 6);//2,6
+		// changed values to make presentation shorter
+		fc = Random.Range (1, 2);//2,11
+		vc = Random.Range (1, 2);//3,9
+		bc = Random.Range (1, 2);//2,6
 		budget = (fc * fp) + (vc * vp) + (bc * bp);
 		initial = budget;
 		moneyLeft.text = "Remaining Budget: $" + budget.ToString ("F2");

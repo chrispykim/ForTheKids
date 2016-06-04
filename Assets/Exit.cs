@@ -17,8 +17,8 @@ public class Exit : MonoBehaviour {
 
 	void OnMouseOver(){
 		if(Input.GetMouseButtonDown(0)){
-			print (score);
-			SceneManager.LoadScene ("testBegin");
+			print (score); // event manager from game scene updates this value upon exit. use for overworld
+			SceneManager.LoadScene ("testBegin"); // loops back to tutorial. change to overworld
 		}
 	}
 }
