@@ -4,6 +4,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 
+// script for each individual generated food item to move it and change variables like budget and counters
 public class MoveFood : MonoBehaviour {
 	private float moveSpeed = 0.035f;
 	private Vector2 first, second, swipe;
@@ -12,25 +13,21 @@ public class MoveFood : MonoBehaviour {
 	private int type;
 	private Transform t;
 	private RectTransform r;
-	private float scaleWidth; // fucking canvas
+	private float scaleWidth; 
 	private float scaleHeight;
 
 	// Use this for initialization
 	void Start () {
+		// get price of current item
 		Dictionary<string, float> d = GameObject.FindWithTag ("GameController").GetComponent<SpawnFood> ().prices;
-		/*string path = "/Users/chrisKim/Desktop/My Stuff/College/ENG 100D/ForTheKids/test.txt";
-		foreach (KeyValuePair<string, float> kvp in d) {
-			using (StreamWriter sw = File.AppendText (path)) {
-				sw.WriteLine ("name: " + kvp.Key + ", price: " + kvp.Value + "\n");
-			}
-		}*/
 		price = d[this.transform.name];
+		// scale factor for moving things on canvas
 		scaleWidth = GameObject.FindWithTag ("GameController").GetComponent<SpawnFood> ().scaleWidth;
 		scaleHeight = GameObject.FindWithTag ("GameController").GetComponent<SpawnFood> ().scaleHeight;
 		setType ();
 		wasPressed = false;
 		isAlive = true; 
-
+		// set and display price of current item
 		GameObject temp = ((GameObject)Resources.Load("pt"));
 		t = Instantiate (temp.transform);
 		t.SetParent (GameObject.FindGameObjectWithTag ("Canvas").transform);
@@ -44,6 +41,7 @@ public class MoveFood : MonoBehaviour {
 		r.localPosition = new Vector3 (transform.position.x*scaleWidth, transform.position.y*scaleHeight+60, transform.position.z);
 	}
 
+	// so we know which counter to decrement
 	void setType() {
 		type = 3; // so counters don't decrement if they're not supposed to
 		string bread = "Bread"; string fruit = "Fruit"; string veggie = "Veggie";
@@ -73,6 +71,7 @@ public class MoveFood : MonoBehaviour {
 		}
 	}
 
+	// swiping down logic
 	void OnMouseOver() {
 		if (Input.GetMouseButtonDown (0) && Input.mousePosition.x < Screen.width/2) {
 			first = new Vector2 (Input.mousePosition.x, Input.mousePosition.y);

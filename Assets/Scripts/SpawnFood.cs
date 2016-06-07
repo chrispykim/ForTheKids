@@ -2,6 +2,9 @@
 using System.Collections;
 using System.Collections.Generic;
 
+//IMPT: IF THERE'S LAG IT'S BECAUSE OF THE BACKGROUND PICTURE. DIDN'T GET AROUND TO FIXING IT COMPLETELY BUT LOWERING RESOLUTION SEEMED TO HELP A LOT
+
+// main event handler that spawns random food items and keeps track of things
 public class SpawnFood : MonoBehaviour {
 	private static int NUM_OF_FOOD_TYPES = 19;
 	private float time = 2.5f;
@@ -24,7 +27,8 @@ public class SpawnFood : MonoBehaviour {
 		gameOver = false;
 		scoreText.text = "";
 		exitText.text = "";
-		// some bullshit to make ui text movement work
+		GameObject.Find ("ExitText").GetComponent<Exit>().gameOver = false; // make sure exit not clicked prematurely 
+		// some bullshit to make ui text movement on canvas work
 		RectTransform canvas = GameObject.FindGameObjectWithTag ("Canvas").GetComponent<RectTransform> ();
 		float canvasHeight = canvas.rect.height;
 		float canvasWidth = canvas.rect.width;
@@ -32,7 +36,7 @@ public class SpawnFood : MonoBehaviour {
 		float camWidth = camHeight * GameObject.FindGameObjectWithTag ("MainCamera").GetComponent<Camera> ().aspect;
 		scaleWidth = canvasWidth / camWidth;
 		scaleHeight = canvasHeight / camHeight;
-
+		// sets prices for all food items in this game
 		setPrice ();
 		Instantiate (chooseFood());
 	}
@@ -42,10 +46,10 @@ public class SpawnFood : MonoBehaviour {
 			if (o.tag != "Finish" && o.tag != "MainCamera" && o.tag != "GameController")
 				Destroy(o);
 		}
-
-		if (rem < 60)
+		// calculating score. super simplistic right now will need to be updated
+		if (rem > 0 && rem < 60)
 			rem += 40;
-		else
+		else if (rem >= 60)
 			rem = 100;
 			
 		string temp = "";
@@ -55,7 +59,7 @@ public class SpawnFood : MonoBehaviour {
 			temp += "You did not succeed\n";
 		scoreText.text = temp + "SCORE: " + rem.ToString();
 		exitText.text = "EXIT";
-
+		GameObject.Find ("ExitText").GetComponent<Exit>().gameOver = true;
 		GameObject.Find ("ExitText").GetComponent<Exit> ().score = (int)rem;
 		gameOver = true;
 	}
@@ -71,9 +75,8 @@ public class SpawnFood : MonoBehaviour {
 		scaleWidth = canvasWidth / camWidth;
 		scaleHeight = canvasHeight / camHeight;*/
 
-		//print (gameOver);
 		time -= Time.deltaTime;
-
+		// spawn food and check if game over every 2.5 sec
 		if (time <= 0 && !gameOver) {
 			float remaining = GameObject.FindWithTag ("GameController").GetComponent<Budget> ().budget;
 			int f = GameObject.FindWithTag ("GameController").GetComponent<Budget> ().fc;
@@ -81,18 +84,20 @@ public class SpawnFood : MonoBehaviour {
 			int b = GameObject.FindWithTag ("GameController").GetComponent<Budget> ().bc;
 			//print ("f = " + f + ", v = " + v + ", b = " + b);
 			if (remaining < 0f)
-				GameOver (remaining, false);
+				GameOver (0, false);
 			else if (f == 0 && v == 0 && b == 0)
 				GameOver (remaining, true);
 			else if (remaining == 0f)
 				GameOver (remaining, false);
 			
-			time = 2.5f;
 			if (!gameOver)
 				Instantiate (chooseFood());
+
+			time = 2.5f;
 		}
 	}
 
+	// assigns predetermined prices for each category randomly to each item in category without repeats
 	public void setPrice() {
 		// bread $2-4 fruits $1-4 veggies $3-5 milk $2 cake $15 chocolate $2 donut $1 ice cream $3 soda $1
 		prices = new Dictionary<string, float>();
@@ -130,7 +135,7 @@ public class SpawnFood : MonoBehaviour {
 			prices.Add (name, breadPrices [index]);
 			breadPrices.RemoveAt (index);
 		}
-
+		// change these if you want doesn't matter to game
 		prices.Add("Milk(Clone)", 2f);
 		prices.Add("Snack1(Clone)", 15f);
 		prices.Add("Snack2(Clone)",	2f);
